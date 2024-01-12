@@ -16,7 +16,7 @@ This is a simple Discord chat bot built using discord.js and the gpt-3.5-turbo m
 
 ```powershell
 
-git clone https://github.com/ .
+git clone https://github.com/LanZz-csec/ai-chat-bot.git .
 
 ```
 
